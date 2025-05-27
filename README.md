@@ -1,10 +1,10 @@
-# 🚦 Density-Based Smart Traffic Light System
+#  Density-Based Smart Traffic Light System
 
 A smart traffic management solution that dynamically adjusts signal timings based on real-time vehicle density using **YOLO** (You Only Look Once) object detection and a threshold-based logic model. Designed to reduce congestion and enhance urban mobility.
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
 
 
